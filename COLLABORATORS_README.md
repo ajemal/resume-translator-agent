@@ -10,7 +10,7 @@ This is a **fully functional React-based AI resume translator** ready for develo
 
 ### 1️⃣ Clone & Install
 ```bash
-git clone <repository-url>
+git clone https://github.com/ajemal/resume-translator-agent.git
 cd resume-translator-agent
 npm install
 ```
